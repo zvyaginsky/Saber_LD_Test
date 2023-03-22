@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Projects/SaberLDTest/Saber_LD_Test/Content/Maps/Level_Test.umap",
 				"C:/Projects/SaberLDTest/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Projects/SaberLDTest/Content/Maps/Level_Test.umap",
 				"C:/Projects/SaberLDTest/Content/Maps/TestTaskMap_BuiltData.uasset",
