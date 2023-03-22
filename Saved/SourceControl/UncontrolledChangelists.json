@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Projects/SaberLDTest/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Projects/SaberLDTest/Content/Maps/Level_Test.umap",
+				"C:/Projects/SaberLDTest/Content/Maps/TestTaskMap_BuiltData.uasset",
+				"C:/Projects/SaberLDTest/Content/Maps/TestTaskMap.umap",
+				"C:/Projects/SaberLDTest/Content/Material/Interior.uasset",
+				"C:/Projects/SaberLDTest/Content/Material/Ladder.uasset",
+				"C:/Projects/SaberLDTest/Content/Material/Land.uasset",
+				"C:/Projects/SaberLDTest/Content/Material/Road.uasset",
+				"C:/Projects/SaberLDTest/Content/Material/Rock.uasset",
+				"C:/Projects/SaberLDTest/Content/Material/Street.uasset",
+				"C:/Projects/SaberLDTest/Content/Material/Team1.uasset",
+				"C:/Projects/SaberLDTest/Content/Material/Team2.uasset",
+				"C:/Projects/SaberLDTest/Content/Materials/Material/Street.uasset",
+				"C:/Projects/SaberLDTest/Content/Materials/Material/Team2.uasset",
+				"C:/Projects/SaberLDTest/Content/Materials/Material/Ladder.uasset",
+				"C:/Projects/SaberLDTest/Content/Materials/Material/Interior.uasset",
+				"C:/Projects/SaberLDTest/Content/Materials/Material/Rock.uasset",
+				"C:/Projects/SaberLDTest/Content/Materials/Material/Land.uasset",
+				"C:/Projects/SaberLDTest/Content/Materials/Material/Road.uasset",
+				"C:/Projects/SaberLDTest/Content/Materials/Material/Team1.uasset",
+				"C:/Projects/SaberLDTest/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset"
+			]
+		}
+	]
+}
